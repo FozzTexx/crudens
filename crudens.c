@@ -1,4 +1,4 @@
-/* Written by Chris Osborn < fozztexx@fozztexx.com>
+/* Written by Chris Osborn <fozztexx@fozztexx.com>
  *
  * Quick & dirty hack just to get an example nameserver working. Only
  * responds to A record requests and always returns 127.0.0.1 no
@@ -6,7 +6,7 @@
  * started so that you can connect to your own backend and add
  * additional functionality.
  *
- * This code is 
+ * Feel free to re-use this code however you see fit.
  */
 
 /* DNS protocol reference:
