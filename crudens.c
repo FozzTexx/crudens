@@ -1,4 +1,5 @@
 /* Written by Chris Osborn <fozztexx@fozztexx.com>
+ * http://insentricity.com
  *
  * Quick & dirty hack just to get an example nameserver working. Only
  * responds to A record requests and always returns 127.0.0.1 no
